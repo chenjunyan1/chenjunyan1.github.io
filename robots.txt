@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chenjunyan.github.io/sitemap.xml
+Sitemap: https://chenjunyan1.github.io/sitemap.xml
