@@ -283,8 +283,22 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "new"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_tags: [
+    "web前端",
+    "Python",
+    "chatGPT",
+    "codelab",
+    "MicroBlocks",
+    "实务学堂",
+    "一土",
+    "城市摄影",
+    "四季摄影",
+    "formatting",
+    "images",
+    "links",
+    "math",
+  ] # these tags will be displayed on the front page of your blog
+display_categories: ["blockquotes", "编程", "摄影", "教育", "趣事", "AI"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -316,7 +330,7 @@ scholar:
   group_order: descending
 
 # Display different badges withs stats for your publications
-enable_publication_badges:
+enable_publication_badges: 
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)

@@ -1,12 +1,9 @@
-github_users:
-  - torvalds
-  - alshedivat
+github_users: chenjunyan1
+
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - wonderland-club/weather-canvas
+  - wonderland-club/Aim-joinEsp32-proxy
+  - wonderland-club/Aim-joinEsp32-mqtt
+  - chenjunyan1/Hygiene
+  - chenjunyan1/InspectionRecord
