@@ -1,9 +1,9 @@
 ---
 layout: post
 title: a post with bibliography
-date: 2023-07-12 09:56:00-0400
+date: 2015-03-15 16:40:16
 description: an example of a blog post with bibliography
-tags: formatting bib
+tags: jekyllrb-learning
 categories: sample-posts
 giscus_comments: true
 related_posts: false

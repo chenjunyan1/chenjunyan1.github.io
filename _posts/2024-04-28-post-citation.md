@@ -1,9 +1,9 @@
 ---
 layout: post
 title: a post that can be cited
-date: 2024-04-28 15:06:00
+date: 2015-03-15 16:40:16
 description: this is what a post that can be cited looks like
-tags: formatting citation
+tags: jekyllrb-learning
 categories: sample-posts
 citation: true
 ---

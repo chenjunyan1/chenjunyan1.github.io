@@ -1,9 +1,9 @@
 ---
 layout: post
 title: a post with custom blockquotes
-date: 2023-05-12 15:53:00-0400
+date: 2015-03-15 16:40:16
 description: an example of a blog post with custom blockquotes
-tags: formatting blockquotes
+tags: jekyllrb-learning
 categories: sample-posts
 giscus_comments: true
 related_posts: true

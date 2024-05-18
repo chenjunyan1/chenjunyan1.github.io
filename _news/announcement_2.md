@@ -1,33 +1,30 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: 我的教育探索之旅 - 实务学堂到美珍奖教金
+date: 2022-1-15
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
----
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+# 2021年 实务学堂 第三届“美珍奖教金”
 
-#### Hipster list
+`“美珍奖教金”`是马昕以其母亲王军女士的名义，在`实务学堂`捐赠设立，并用其母亲的小名“美珍”命名，取其`“美好珍贵”`之意，专门奖励实务学堂志愿者教师。
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+1. 2019年起首次颁发，曾颁给心理老师`邓泊`、编程老师`陈一帅`。
+2. 2021年，第三届“美珍奖教金”将颁给以下三位老师： 
+   1. `张鑫`，实务学堂创始届老师，“实务学堂”的命名者
+   2. `曹雕`，从实务学堂的记录者——拍摄了《独木桥之外》纪录片 
+   3. `陈俊雁`，实务学堂历史上最年轻的老师之一
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+## 老师评语
 
----
+> 陈俊雁，实务学堂历史上最年轻的老师之一。作为编程专业的学生，他主动请缨，给新生开设编程入门课。在他接过老师们的编程教材的同时，也接过了老师们的志愿服务精神。他和其他老师一样，对自己的教学内容投入了专注，对自己的学生投入了关注。他会花很多时间备课、讲课，还会花更多时间陪伴学生做练习，给他们支持。他说，我希望他们找到编程的乐趣，不会在遇到困难时放弃。他所说所做的，让我们看到了实务学堂精神种子的落地，看到了实务学堂实践的延续。
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+**Bilibili 回顾现场**
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=296021884&bvid=BV1zF411n7R2&cid=494911493&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+

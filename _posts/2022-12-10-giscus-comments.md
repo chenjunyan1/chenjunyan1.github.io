@@ -1,10 +1,10 @@
 ---
 layout: post
 title: a post with giscus comments
-date: 2022-12-10 11:59:00-0400
+date: 2015-03-15 16:40:16
 description: an example of a blog post with giscus comments
-tags: comments
-categories: sample-posts external-services
+tags: jekyllrb-learning
+categories: sample-posts
 giscus_comments: true
 related_posts: false
 ---

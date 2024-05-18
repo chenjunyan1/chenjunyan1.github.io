@@ -1,9 +1,9 @@
 ---
 layout: post
 title: a post with typograms
-date: 2024-04-29 23:36:10
+date: 2015-03-15 16:40:16
 description: this is what included typograms code could look like
-tags: formatting diagrams
+tags: jekyllrb-learning
 categories: sample-posts
 typograms: true
 ---
