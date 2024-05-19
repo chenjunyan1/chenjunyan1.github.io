@@ -9,6 +9,8 @@ related_posts: false
 
 ***\*[专栏](https://www.freecodecamp.org/chinese/news)贡献者\***：`陈俊雁`
 
+我的freeCodeCamp 主页 ：[FreeCodeCamp](https://www.freecodecamp.org/chinese/news/author/chen/)
+
 ## 我的获奖感言🏆
 
 > 非常荣幸能够入选 2022 freeCodeCamp 全球社区 Top Contributors。在分享知识的过程中我的内心是非常开心的，运用到了费曼学习法，我会举一些例子和做一些实验，将过程中发生的变化进行细节解说，这样会更加让读者了解，这也是一个提升自己的机会。

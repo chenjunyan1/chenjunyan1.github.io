@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我的教育探索之旅 - 实务学堂到美珍奖教金
+title: 我的教育探索之旅 - 实务学堂美珍奖教金
 date: 2022-1-15
 inline: false
 related_posts: false
@@ -24,7 +24,7 @@ related_posts: false
 
 
 
-**Bilibili 回顾现场**
+**`Bilibili 现场回顾 ~`**
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=296021884&bvid=BV1zF411n7R2&cid=494911493&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
