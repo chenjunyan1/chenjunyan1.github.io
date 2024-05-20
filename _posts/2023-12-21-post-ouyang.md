@@ -8,7 +8,7 @@ categories: 教育
 tabs: true
 ---
 
-> 转载 `实务学堂` [公众号]([https://mp.weixin.qq.com/s/MuQKO5dAvdvuMlBLTTsdNg](https://mp.weixin.qq.com/s/MuQKO5dAvdvuMlBLTTsdNg))
+> 转载 `实务学堂` [公众号](https://mp.weixin.qq.com/s/MuQKO5dAvdvuMlBLTTsdNg))
 >
 
 
