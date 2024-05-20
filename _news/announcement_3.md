@@ -7,9 +7,11 @@ related_posts: false
 
 ---
 
-***\*[专栏](https://www.freecodecamp.org/chinese/news)贡献者\***：`陈俊雁`
+[FreeCodeCamp](https://www.freecodecamp.org/chinese) : 我们的使命：帮助人们免费学习编程。我们通过创建成千上万的视频、文章和交互式编程课程——所有内容向公众免费开放——来实现这一目标。
 
-我的freeCodeCamp 主页 ：[FreeCodeCamp](https://www.freecodecamp.org/chinese/news/author/chen/)
+
+
+[[专栏]](https://www.freecodecamp.org/chinese/news)贡献者：`陈俊雁`，我的 FreeCodeCamp 主页 ：[FreeCodeCamp](https://www.freecodecamp.org/chinese/news/author/chen/)
 
 ## 我的获奖感言🏆
 
@@ -19,4 +21,4 @@ related_posts: false
 
 > 最后特别感谢线上线下的开源社区比如 freeCodeCamp 激励着我，遇到问题再也不会有畏惧感了。开源社区让我们共同学习，不断进步。把自己学到的东西认真详细分享出来，也是我生活中的一大乐趣。
 
-原文链接：[https://www.freecodecamp.org/chinese/news/freecodecamp-2022-top-contributors/](https://www.freecodecamp.org/chinese/news/freecodecamp-2022-top-contributors/)
+> `原文链接`：[https://www.freecodecamp.org/chinese/news/freecodecamp-2022-top-contributors/](https://www.freecodecamp.org/chinese/news/freecodecamp-2022-top-contributors/)
