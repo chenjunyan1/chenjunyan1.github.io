@@ -21,4 +21,4 @@ related_posts: false
 
 > 最后特别感谢线上线下的开源社区比如 freeCodeCamp 激励着我，遇到问题再也不会有畏惧感了。开源社区让我们共同学习，不断进步。把自己学到的东西认真详细分享出来，也是我生活中的一大乐趣。
 
-> `原文链接`：[https://www.freecodecamp.org/chinese/news/freecodecamp-2022-top-contributors/](https://www.freecodecamp.org/chinese/news/freecodecamp-2022-top-contributors/)
+> `原文链接`:[Announcing freeCodeCamp's 2022 Top Contributors](https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/)
