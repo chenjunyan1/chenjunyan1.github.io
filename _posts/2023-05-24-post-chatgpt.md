@@ -3,7 +3,7 @@ layout: post
 title: 挑战与机遇，我们是否仍需学习编程 ？
 date: 2023-05-24
 description: AI 到来，该怎么办？
-tags: chatGPT
+tags: chatGPT MicroBlocks
 categories: AI 陈俊雁
 tabs: true
 ---
