@@ -13,7 +13,7 @@ footer_text: >
   ❤️ 每个人都是珍贵的，珍贵的普通人。
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: zh # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 😻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 😽 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://chenjunyan1.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
