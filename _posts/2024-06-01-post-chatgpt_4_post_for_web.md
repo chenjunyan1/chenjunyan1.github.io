@@ -19,7 +19,7 @@ tabs: true
 
 `AzureOpenAI` 是微软推出的 AI 服务平台，尤其在中国市场，AzureOpenAI 通过了严格的内容过滤机制，确保了服务的合规性和安全性。就是说 AzureOpenAI 可以在**`大陆合法使用`**。
 
-它同样拥有与 `ChatGPT` 相同的强大能力，可以理解为微软给 `OpenAI chatGPT ` 做了一个内容过滤器，过滤器会针对当地的法律法规进行，阻止 OpenAI chatGPT 生成不符内容。
+它同样拥有与 `ChatGPT` 相同的强大能力，可以理解为微软给 `OpenAI chatGPT ` 做了一个内容过滤器，过滤器会针对当地的法律法规，阻止 OpenAI chatGPT 生成不符内容。
 
 本文将介绍如何将 `AzureOpenAI` 部署到网页上，并结合单次调用和连续对话调用的方法，实现一个简单的聊天机器人应用。这个过程非常简单，即使是初学者也能轻松完成。
 
