@@ -127,7 +127,7 @@ print(response.choices[0].message.content)
 
 在运行代码之前，请确保已设置环境变量 `AZURE_OPENAI_ENDPOINT` 和 `AZURE_OPENAI_API_KEY`。这些可以通过以下命令在终端中设置：
 
-Mac 版本
+**Mac 版本**
 
 ```bash
 export AZURE_OPENAI_ENDPOINT='your_azure_openai_endpoint'
