@@ -7,11 +7,31 @@ related_posts: false
 
 ---
 
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/post_img/%E9%99%88%E4%BF%8A%E9%9B%81.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+  freeCodeCamp's 2022 Top Contributors 合影
+</div>
+
+
+
+<br>
+
 > [FreeCodeCamp](https://www.freecodecamp.org/chinese) : 我们的使命：帮助人们免费学习编程。我们通过创建成千上万的视频、文章和交互式编程课程——所有内容向公众免费开放——来实现这一目标。
 
 > `原文链接`：[Announcing freeCodeCamp's 2022 Top Contributors](https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/)
 
+<hr>
+<br>
+
 [[专栏]](https://www.freecodecamp.org/chinese/news)贡献者：`陈俊雁`，我的 FreeCodeCamp 主页 ：[FreeCodeCamp](https://www.freecodecamp.org/chinese/news/author/chen/)
+
+<br>
 
 ## 我的获奖感言🏆
 
