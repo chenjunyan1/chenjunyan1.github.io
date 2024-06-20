@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://chenjunyan1.github.io/KIDO-CodeLab'>陈俊雁</a>. 河北石家庄人. 现居北京.
+subtitle: <a href='https://chenjunyan1.github.io/kido-codelab/'>陈俊雁</a>. 河北石家庄人. 现居北京.
 
 profile:
   align: right
