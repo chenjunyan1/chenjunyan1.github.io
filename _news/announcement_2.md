@@ -6,6 +6,8 @@ inline: false
 related_posts: false
 ---
 
+`陈俊雁`（以下简称 `俊俊`） `kido-codelab` 组织者，热爱且喜欢编程，想将编程带来的乐趣带给更多的人～
+
 
 
 ## 2021年 实务学堂 第三届“美珍奖教金”
@@ -26,5 +28,5 @@ related_posts: false
 
 **`Bilibili 现场回顾 ~`**
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=296021884&bvid=BV1zF411n7R2&cid=494911493&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=296021884&bvid=BV1zF411n7R2&cid=494911493&p=1&autoplay=0&muted=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

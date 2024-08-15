@@ -6,6 +6,22 @@ title: 从零到一的编程旅程 - 陈俊雁在南方科技大学的演讲分�
 related_posts: false
 ---
 
+
+
+> 以下内容暂由 chatGPT4o整理
+
+
+
+**相关链接**
+
+​	•	[2021中文学生开源年会讲者专访](https://sosconf.org/2021zh/speakers) 
+
+​	•	[freeCodeCamp上的文章](https://www.freecodecamp.org/chinese/news/how-i-learn-to-code-within-online-and-offline-open-source-community/)
+
+​	•	[kido-codelab 组织者](https://chenjunyan1.github.io/kido-codelab)
+
+
+
 大家好，我是陈俊雁。在南方科技大学举办的2021中文学生开源年会上，我有幸做了一个关于开源社区的演讲。以下是我演讲的主要内容和一些心得体会。
 
 
@@ -44,12 +60,5 @@ related_posts: false
 
 
 
-**相关链接**
-
-​	•	[2021中文学生开源年会讲者专访](https://sosconf.org/2021zh/speakers) 
-
-​	•	[freeCodeCamp上的文章](https://www.freecodecamp.org/chinese/news/how-i-learn-to-code-within-online-and-offline-open-source-community/) 
-
-
-
 希望通过我的分享，更多人能了解开源社区的魅力，并且在编程学习的道路上找到属于自己的乐趣。如果你对编程或者开源社区感兴趣，欢迎随时联系我！
+
