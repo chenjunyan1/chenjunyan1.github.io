@@ -8,15 +8,15 @@ related_posts: false
 
 
 
-> 以下内容暂由 chatGPT4o整理
+> 以下内容暂由 chatGPT-4o整理
 
 
 
 **相关链接**
 
-​	•	[2021中文学生开源年会讲者专访](https://sosconf.org/2021zh/speakers) 
+​	•	[2021中文学生开源年会讲者专访：陈俊雁讲者](https://sosconf.org/zh-hans/chen-jun-yan-post/) 
 
-​	•	[freeCodeCamp上的文章](https://www.freecodecamp.org/chinese/news/how-i-learn-to-code-within-online-and-offline-open-source-community/)
+​	•	[FreeCodeCamp 陈俊雁：利用线上和线下的开源社区，从没有学习机会的青少年，成为编程学习者](https://www.freecodecamp.org/chinese/news/how-i-learn-to-code-within-online-and-offline-open-source-community/)
 
 ​	•	[kido-codelab 组织者](https://chenjunyan1.github.io/kido-codelab)
 

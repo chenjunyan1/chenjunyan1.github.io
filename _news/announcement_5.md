@@ -2,7 +2,7 @@
 layout: post
 date: 2024-3-27
 inline: false
-title: 加入 一场「Space One」 🥳
+title: 进入 一场「Space One」 🥳
 related_posts: false
 
 ---
