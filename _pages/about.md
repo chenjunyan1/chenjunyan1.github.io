@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>微信 👉 wonderland_yan_101</p>
-    <p>邮编 👉 100051</p>
+    <p>address <p>👉 北京市朝阳区顺白路 300 号</p></p>
+    <p>Gmail <p>👉 chenswonderland123@gmail.com</p></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
