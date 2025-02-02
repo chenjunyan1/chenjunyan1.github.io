@@ -279,8 +279,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["web前端", "Python", "chatGPT", "codelab", "MicroBlocks", "实务学堂", "一土学校", "城市摄影", "四季摄影", "jekyllrb-learning"] # these tags will be displayed on the front page of your blog
-display_categories: ["编程", "摄影", "教育", "趣事", "AI", "sample-posts"] # these categories will be displayed on the front page of your blog
+display_tags: ["web前端", "Python", "chatGPT", "codelab", "MicroBlocks", "实务学堂", "一土学校", "城市摄影", "四季摄影", "jekyllrb-learning","亲密关系"] # these tags will be displayed on the front page of your blog
+display_categories: ["编程", "摄影", "教育", "趣事", "AI", "sample-posts","我们的 LOVE"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
