@@ -6,10 +6,10 @@ description: 前天我的女朋友思怡吐槽了我好多信息，我看到这�
 tags: 亲密关系
 categories: 我们的LOVE
 tabs: true
-
-
+thumbnail: assets/img/post_img/WechatIMG12555.jpg
+toc:
+  sidebar: left
 ---
-
 
 <div class="row mt-3">
   	<div class="col-sm mt-3 mt-md-0">
@@ -45,15 +45,16 @@ AI 说了三点，我简单用白话解释一下
 
 <div class="row mt-3">
   	<div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/post_img/IMG_3114%202.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/post_img/WechatIMG12551-8654590.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
   <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/post_img/IMG_3817.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/post_img/WechatIMG12548.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-   图中人物为作者女朋友
+   图中人物是 俊俊 女朋友 思怡，地点： 广州-沙面岛
 </div>
+
 <br>
 
 于是我让 AI 把关于拧巴解释的第三个点，并让 AI 举出一个详细案例，猜测这个点可能是她生闷气的原因。
@@ -102,16 +103,17 @@ AI 跟我说了一大堆，我从中找到了一个关键句子
 
 <div class="row mt-3">
   	<div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/post_img/IMG_3539.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/post_img/WechatIMG12557.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
   	<div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/post_img/IMG_3600.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/post_img/WechatIMG12553-8654581.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="caption">
-   图中人物为作者女朋友，地点为 广州-沙面岛
+   图中人物是 俊俊 女朋友 思怡，地点： 广州-沙面岛
 </div>
+
 <br>
 
 于是我接着问，我懂了，那以后该怎么让我能时刻想到这个维度呢？我从中选了一条，感觉还不错。
@@ -128,3 +130,25 @@ AI 跟我说了一大堆，我从中找到了一个关键句子
 虽然我觉得这条很好，但感觉能避免这种小冲突的话可能会更美好，可以在跟她在一起做每一件事之前，都能想到这，**我们最终都希望达成什么目标呢？**
 
 但是，肯定有时候不太想妥协嘛哈哈，那可能就会需要，主动倾听和表达感受，协商和妥协等等了。
+
+<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/img/post_img/siyi.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true loop=true muted=true %}
+    </div>
+</div>
+<div class="caption">
+    该视频使用 OpenAI Sora 制作
+</div>
+
+
+
+<div class="row mt-3">
+  	<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/post_img/WechatIMG12555.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    最后在本文末尾，祝新的一年，我们越来越好。
+</div>
