@@ -5,6 +5,7 @@ date: 2025-02-02
 description: 前天我的女朋友思怡吐槽了我好多信息，我看到这些信息有些不知所措。我这几天反复观看这些信息，从中提取到了一个关键词“拧巴”，什么是拧巴？
 tags: 亲密关系
 categories: 我们的LOVE
+published: false
 tabs: true
 thumbnail: assets/img/post_img/WechatIMG12555.jpg
 toc:
